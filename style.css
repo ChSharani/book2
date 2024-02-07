@@ -1,0 +1,22 @@
+div.a{
+    line-height: 1.2;
+    text-align:justify;
+    font-family: serif;
+}
+h2{
+    text-align: center;
+}
+body{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+p{
+    line-height: 1.5;
+    text-align:justify;
+    font-family: serif;
+}
+td{
+    width:1%;
+    
+}
